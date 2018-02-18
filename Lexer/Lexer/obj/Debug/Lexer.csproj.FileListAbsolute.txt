@@ -1,0 +1,7 @@
+C:\Users\jerem\Documents\Visual Studio 2017\Projects\Lexer\Lexer\bin\Debug\Lexer.exe.config
+C:\Users\jerem\Documents\Visual Studio 2017\Projects\Lexer\Lexer\bin\Debug\Lexer.exe
+C:\Users\jerem\Documents\Visual Studio 2017\Projects\Lexer\Lexer\bin\Debug\Lexer.pdb
+C:\Users\jerem\Documents\Visual Studio 2017\Projects\Lexer\Lexer\obj\Debug\Lexer.csprojResolveAssemblyReference.cache
+C:\Users\jerem\Documents\Visual Studio 2017\Projects\Lexer\Lexer\obj\Debug\Lexer.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Documents\Visual Studio 2017\Projects\Lexer\Lexer\obj\Debug\Lexer.exe
+C:\Users\jerem\Documents\Visual Studio 2017\Projects\Lexer\Lexer\obj\Debug\Lexer.pdb
